@@ -1,0 +1,11 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Homework assignment #1 for Node.js master class",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=staging && nodemon index.js"
+  },
+  "author": "Gabor Szekely",
+  "license": "ISC"
+}
