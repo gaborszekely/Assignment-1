@@ -13,6 +13,6 @@ To use, please make an HTTP POST request and specify a JSON object as the body w
 }
 ```
 
-*(**Please note** - The language options available are English, French and Spanish. Other language choices will default to English.)*
+*(**Please note** - The language options available are English, French and Spanish. All other language choices will default to English.)*
 
 Thanks, and enjoy the app!
